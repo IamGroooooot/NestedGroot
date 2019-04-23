@@ -1,5 +1,5 @@
 {
-  "name": "groot-blog",
+  "name": "GrootPage",
   "version": "2.0.0",
   "author": "Juhyeong Ko <dury.ko@gmail.com>",
   "license": "MIT",
@@ -59,7 +59,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public -b master -r https://github.com/IamGroooooot/NestedGroot.git",
+    "deploy": "gatsby build && gh-pages -d public -b master -r https://github.com/IamGroooooot/GrootPage.git",
     "devhost": "gatsby develop --host 192.168.0.112",
     "format": "prettier --write 'src/**/*.js'",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
