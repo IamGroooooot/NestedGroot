@@ -1,27 +1,9 @@
 ---
 title: About
 ---
+저는 컴퓨터 공학을 공부하고 있는 초보 개발자입니다.
+군대 가기 전에 공부한 것들을 정리하고 싶어서 만든 기술 블로그입니다.
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+[HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter blog를 사용해서 만들었습니다.
 
-### Features:
-
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+### GITHUB: https://github.com/IamGroooooot

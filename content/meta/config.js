@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: "GrootBlog - Studying Computer Science", // <title>
-  shortSiteTitle: "GrootBlog - Studying Computer Science", // <title> ending for posts and pages
-  siteDescription: "GrootBlog is for my Studying Footprintf.",
-  siteUrl: "https://iamgroooooot.github.io/GrootPage/index.html",
-  pathPrefix: '/GrootPage',
+  siteTitle: "코딩하는 그루트", // <title>
+  shortSiteTitle: "코딩-그루트", // <title> ending for posts and pages
+  siteDescription: "군대 가기 전 공부한 것들을 남기기 위한 블로그",
+  siteUrl: "https://codinggroot.netlify.com/",
+  pathPrefix: '/',
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
@@ -16,9 +16,9 @@ module.exports = {
   headerSubTitle: "CAU Student",
 
   /* manifest.json */
-  manifestName: "GrootBlog - a GatsbyJS starter",
-  manifestShortName: "GrootBlog", // max 12 characters
-  manifestStartUrl: "/GrootPage/index.html",
+  manifestName: "Coding Groot - Tech Blog",
+  manifestShortName: "CodingGroot", // max 12 characters
+  manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
   manifestDisplay: "standalone",
