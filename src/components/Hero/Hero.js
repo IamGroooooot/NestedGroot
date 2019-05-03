@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 import PropTypes from "prop-types";
 
 import { FaArrowDown } from "react-icons/fa/";
@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+          코딩을 좋아하는 &nbsp;<strong>그루트 블로그</strong> C# Starter
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
