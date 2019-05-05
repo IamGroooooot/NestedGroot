@@ -2,4 +2,4 @@
 title: footnote
 ---
 
-* Github 주소 [IamGroooooot](https://github.com/IamGroooooot)
+* Github ì£¼ì†Œ [IamGroooooot](https://github.com/IamGroooooot)
