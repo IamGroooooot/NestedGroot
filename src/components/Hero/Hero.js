@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          코딩 &nbsp;<strong>그루트</strong>의 프로그래밍
+          나의 &nbsp;<strong>코딩</strong> 보금자리
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
