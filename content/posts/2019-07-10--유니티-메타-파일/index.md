@@ -30,7 +30,7 @@ author: groot
     내가 유니티 Assets폴더 안에 있는 groot.jpg파일을 이용해 작업을 하고 있었다고 해보자.  
     Unity는 asset을 unique한 ID를 통해 찾으므로 groot.jpg파일을 Assets/Resources/Sprite 폴더로 파일을 옮기거나 Groot.jpg로 이름을 바꿔도 (그 파일이 뭐였는지 잃지 않고) ID를 통해 그 파일을 참조할 수 있다.
     
-
+### 
 #### **2\. 그 다음으로 .meta 파일을 생성한다.**
 
 ![(좌) 윈도우 탐색기로 연 UnityProject/Assets의 창 (우) 유니티 탐색기(Project View)로 연 UnityProject/Assets의 창](./LeftRight.png)
@@ -119,13 +119,13 @@ author: groot
 
 ## 결론
 
-1.  유니티는 새로운 asset이 인식되면 그 asset을 참조하기 위한 ID를 발급하며 이 ID는 meta 파일에 저장된다.
+- 1   유니티는 새로운 asset이 인식되면 그 asset을 참조하기 위한 ID를 발급하며 이 ID는 meta 파일에 저장된다.
     
-2.  meta 파일은 Import Settings도 저장한다.
+- 2   meta 파일은 Import Settings도 저장한다.
     
-3.  유니티 내에서 작업하자.  
-    유니티 외부에서 Move, Rename하면 meta 파일명을 직접 수정해줘야 한다.
+- 3   유니티 내에서 작업하자.  
+      유니티 외부에서 Move, Rename하면 meta 파일명을 직접 수정해줘야 한다.
     
-4.  외부에 파일을 공유해야 될 상황이 생기면 Unity Package형식으로 공유하는게 편하다.
+- 4   외부에 파일을 공유해야 될 상황이 생기면 Unity Package형식으로 공유하는게 편하다.
     
-5.  협업 시 meta 파일이 중복되어 생성되지 않도록 주의하자!
+- 5   협업 시 meta 파일이 중복되어 생성되지 않도록 주의하자!
