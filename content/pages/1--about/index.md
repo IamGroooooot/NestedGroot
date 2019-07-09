@@ -2,6 +2,7 @@
 title: About
 ---
 코딩을 즐기는 평범한 대학생
+
 현재 C#, C++, Algorithm, Design Pattern을 위주로 공부하고 있다. 
  
 
