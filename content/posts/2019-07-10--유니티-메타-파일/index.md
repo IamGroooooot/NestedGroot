@@ -1,7 +1,7 @@
 ﻿---
 title: 유니티 meta 파일
 category: "Unity"
-cover: photo-1465070845512-2b2dbdc6df66.jpg
+cover: Missing.png
 author: groot
 ---
 ## 유니티 .meta 파일은 뭐길래 모든 asset마다 생성이 될까?
