@@ -1,8 +1,8 @@
 module.exports = {
   siteTitle: "코딩하는 그루트", // <title>
-  shortSiteTitle: "코딩-그루트", // <title> ending for posts and pages
-  siteDescription: "군대 가기 전 공부한 것들을 남기기 위한 블로그",
-  siteUrl: "https://codinggroot.netlify.com/",
+  shortSiteTitle: "코딩 - 그루트", // <title> ending for posts and pages
+  siteDescription: "공부한 것을 정리해보자!",
+  siteUrl: "https://coding-groot.netlify.com/",
   pathPrefix: '/',
   siteImage: "preview.jpg",
   siteLanguage: "en",
